@@ -1,0 +1,21 @@
+{
+  "name": "redes",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000A\u0000P\u0000I\u00002\u0000\r\u0000 \u0000#\u0000 \u0000A\u0000P\u0000I\u00002\u0000\r\u0000 \u0000#\u0000 \u0000A\u0000P\u0000I\u00002\u0000\r\u0000 \u0000#\u0000 \u0000A\u0000P\u0000I\u00002\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev":"node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josedaniel100/API2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/josedaniel100/API2/issues"
+  },
+  "homepage": "https://github.com/josedaniel100/API2#readme"
+}
